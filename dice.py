@@ -5,6 +5,6 @@ import random
 
 def roll_dice():
     """Rolls two dice and returns their sum."""
-    die1 = random.randint(1, 6)
-    die2 = random.randint(1, 6)
-    return die1 + die2
+    dice1 = random.randint(1, 6)
+    dice2 = random.randint(1, 6)
+    return dice1 + dice2
